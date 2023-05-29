@@ -10,13 +10,14 @@
 [https://faded-kick-2555-jd4p.vercel.app/](https://faded-kick-2555-jd4p.vercel.app/)
 
 <h2>Project Screenshots:</h2>
+<p align="center"><img src="https://github.com/Anurag8305/Transport_Simple/assets/106643486/e25d3c4e-1aeb-44c6-97e9-6cf1012f7b05" alt="project-image" height="200/"></p>
+<p align="center"><img src="https://github.com/Anurag8305/Transport_Simple/assets/106643486/bf14a6b4-69eb-4ec3-a341-2fbb515bf32a" alt="project-image" height="200/"></p>
+<p align="center"><img src="https://github.com/Anurag8305/Transport_Simple/assets/106643486/8f05c59c-1a24-446a-9020-d3db3f8489e2" alt="project-image" height="200/"></p>
+<p align="center"><img src="https://github.com/Anurag8305/Transport_Simple/assets/106643486/eef084d3-5e32-4a95-ac4f-07ac9f24d731" alt="project-image" height="200/"></p>
+<p align="center"><img src="https://github.com/Anurag8305/Transport_Simple/assets/106643486/d7368af0-9c89-4afa-8ca3-46bca2af41e4" alt="project-image" height="200/"></p>
+<p align="center"><img src="https://github.com/Anurag8305/Transport_Simple/assets/106643486/14f6080a-bbbb-437e-b05e-f758f89f198a" alt="project-image" height="200/"></p>
 
-![image](https://github.com/Anurag8305/Transport_Simple/assets/106643486/8204d723-bf2b-43be-9432-ad40682bf48c)
-![image](https://github.com/Anurag8305/Transport_Simple/assets/106643486/9e97eace-698e-40d1-b211-3eb771736dbf)
-![image](https://github.com/Anurag8305/Transport_Simple/assets/106643486/77bdaf43-5e95-416e-b601-d5b5cf69d5dc)
-![image](https://github.com/Anurag8305/Transport_Simple/assets/106643486/9dc36b8b-7cdc-41ab-996e-e8ec90b66134)
-![image](https://github.com/Anurag8305/Transport_Simple/assets/106643486/2377873b-29e4-45b5-944f-b7e8d85238ea)
-![image](https://github.com/Anurag8305/Transport_Simple/assets/106643486/715ff012-1ecd-496e-9f00-f02ddb2536f1)
+
 
 
 <br>
