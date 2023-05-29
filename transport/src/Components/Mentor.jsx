@@ -13,7 +13,7 @@ const Mentor = () => {
   return (
     <div>
         <Box py={"30px"} m={"30px 0px"}> 
-        <Heading size={"lg"} mb={"20px"} color={"blue"}>Our Mentor</Heading>
+        <Heading size={"lg"} mb={"20px"} color={"blue"}>Benefits OF Working with Us</Heading>
         <Container as={Stack} maxW={'6xl'}>
         <SimpleGrid columns={{ base: 1, sm: 2, md: 4 }} spacing={1}>
           <Stack align={'center'}>

@@ -5,6 +5,7 @@ import Investors from '../Components/Investors'
 import Mentor from '../Components/Mentor'
 import Achievement from '../Components/Achievement'
 import Cards from '../Components/Cards'
+import Benefits from '../Components/Benefits'
 
 const Homepage = () => {
   return (
@@ -13,7 +14,7 @@ const Homepage = () => {
     <BlueComponent />
     <Mentor />
     <Investors />
-    <Mentor />
+    <Benefits />
     <Achievement />
         <Footer />
     </div>
