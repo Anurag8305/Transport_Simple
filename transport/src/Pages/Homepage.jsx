@@ -6,10 +6,12 @@ import Mentor from '../Components/Mentor'
 import Achievement from '../Components/Achievement'
 import Cards from '../Components/Cards'
 import Benefits from '../Components/Benefits'
+import TopComponent from '../Components/TopComponent'
 
 const Homepage = () => {
   return (
     <div>
+    <TopComponent />
     <Cards />
     <BlueComponent />
     <Mentor />
